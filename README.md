@@ -81,11 +81,6 @@ The virtual machine is the “arena” in which the champions will fight. It und
 ### TLDR
 Basically, the role of the virtual machine is to run the programs that are passed as parameters to it.
 
-
-## The Vm Intro
-
-![webp net-gifmaker 5](https://user-images.githubusercontent.com/24510543/45815632-8d56c800-bcd9-11e8-9b34-d860ad3649ac.gif)
-
 ---
 
 # The Bot
