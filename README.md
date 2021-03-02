@@ -1,9 +1,6 @@
 # Corewars
 
-wseegers
-pstubbs
-kmarchan
-gsteyn
+lmabaso
 
 ## Introduction
 • The Corewar is a game, a very special game. It consists in making small programs fight in a virtual machine.
